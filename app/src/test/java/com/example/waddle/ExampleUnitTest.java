@@ -1,4 +1,4 @@
-package com.example.waddlebudgeting;
+package com.example.waddle;
 
 import org.junit.Test;
 

@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='waddlebudgeting'
+rootProject.name='waddle-app'

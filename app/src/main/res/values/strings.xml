@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">waddlebudgeting</string>
+    <string name="app_name">waddle</string>
     <string name="action_settings">Settings</string>
     <string name="current_budget">Current Budget</string>
     <string name="Recent_Purchases">Recent Purchases</string>

@@ -1,4 +1,4 @@
-package com.example.waddlebudgeting;
+package com.example.waddle;
 
 import android.os.Bundle;
 
