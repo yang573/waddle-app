@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">waddle</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Numbers">Numbers</string>
+    <string name="current_budget">Current Budget</string>
+    <string name="previous_purchases">Previous Purchases</string>
+    <string name="date">Date</string>
+    <string name="place">Place</string>
+    <string name="amount">Amount</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_login">Login</string>
+    <string name="username">Email</string>
+</resources>
